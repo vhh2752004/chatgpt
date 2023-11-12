@@ -15,3 +15,22 @@
     color: #333;
    
 }
+/* mainleft*/
+history {
+
+padding: 10px;
+
+margin: 10px;
+
+display: flex;
+
+flex-direction: column;
+
+height: 100%;
+
+}
+
+.history p{
+
+cursor: pointer
+}
