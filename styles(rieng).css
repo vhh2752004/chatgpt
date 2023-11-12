@@ -34,6 +34,42 @@ height: 100%;
 
 cursor: pointer
 }
+/* mainleft- new chat*/
+side-bar {
+
+background-color: #202123 ;
+
+width: 244px;
+
+height: 100vh;
+
+display: flex;
+
+flex-direction: column;
+
+justify-content: space-between;
+
+}
+
+.history {
+
+padding: 10px;
+
+margin: 10px;
+
+display: flex;
+
+flex-direction: column;
+
+height: 100%;
+
+}
+
+.history p{
+
+cursor: pointer;
+}
+
 / header/
 .main{
     display: flex;
@@ -67,3 +103,4 @@ body{
     font-size: 11px;
     padding: 10px;
 }
+
